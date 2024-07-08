@@ -1,2 +1,4 @@
 it_venv/
 data/output/
+.DS_Store
+.env
