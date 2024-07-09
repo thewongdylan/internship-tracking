@@ -1,6 +1,6 @@
 # Internship Tracking via Sankey Diagram
 
-![Sample Sankey Diagram](/data/sample/Internship%Applications%Sankey%Diagram%Sample.png "Sample Sankey Diagram")
+![/data/sample/Internship%Applications%Sankey%Diagram%Sample.png](https://github.com/thewongdylan/internship-tracking/blob/master/data/sample/Internship%20Applications%20Sankey%20Diagram%20Sample.png?raw=true "Sample Sankey Diagram")
 <p>Here's what the Sankey Diagram looks like!</p>
 
 ## Motivation
