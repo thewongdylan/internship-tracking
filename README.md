@@ -7,7 +7,9 @@
 I've been applying for internships over the past few months, and have been recording all my applications in a Google Sheet.
 Seeing this [reddit post](https://www.reddit.com/r/dataisbeautiful/comments/b5sfbh/my_12month_job_search_as_a_recent_graduate_iitn/) inspired me to do something similar, and this repo contains the code I used to generate a similar Sankey Diagram.
 - `SankeyGenerator.ipynb`: a Jupyter Notebook used for working purposes, and can be run cell by cell to see how the code works
-- TODO: `generate_sankey.py`: a script that runs and automatically generates a Sankey Diagram
+- `generate_sankey.py`: a script that runs and automatically generates a Sankey Diagram
+  - Opens an interactive Sankey Diagram in html
+  - Saves a static version as a `.png` 
 
 ## Process
 1. Extract data from Google Sheets using `Pandas`
