@@ -23,6 +23,13 @@ Install all package requirements as per `requirements.txt`
   pip install -r requirements.txt
 ```
 
+## Database format
+The format in which I recorded my applications, for reference
+
+| S/N | Company | Position | Status 1 | Status 2 | ... | Status N | Date Applied | Source | Link | 
+| --- | ------- | -------- | -------- | -------- | --- | -------- | ------------ | ------ | ---- |
+| 1 | Google | CTO | Technical Assessment | On-site Interview | ... | Rejected after Interview | 04/07/2024 | LinkedIn | google.com | 
+
 ## Disclaimer
 - The code I wrote is specific to the format in which I recorded my internship applications, and is not generally applicable.
 - If anything, please feel free to use the code as a guide rather than an exact instruction manual!
